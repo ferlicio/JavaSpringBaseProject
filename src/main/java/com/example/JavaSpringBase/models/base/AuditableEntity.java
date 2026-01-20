@@ -1,4 +1,4 @@
-package com.example.JavaSpringBase.models.base;
+package com.example.javaSpringBase.models.base;
 
 import java.time.Instant;
 
